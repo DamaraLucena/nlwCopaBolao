@@ -1,4 +1,3 @@
-# nlwCopaBolao
 
 # NLW Copa
 
